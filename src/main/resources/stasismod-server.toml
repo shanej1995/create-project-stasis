@@ -1,0 +1,13 @@
+#Chamber Energy Settings
+#These settings control the Forge Energy (FE) behavior of the Stasis Chamber.
+#Server-side only - clients cannot edit these without server admin permission.
+[energy]
+	#Total FE capacity of chamber
+	# Range: > 1000
+	chamberCapacity = 100000
+	#FE cost to activate chamber and enter simulation
+	# Range: > 100
+	activationCost = 10000
+	#Maximum FE transfer rate in and out per tick
+	# Range: > 1
+	maxTransferRate = 500

@@ -1,0 +1,11 @@
+#Chamber Energy Settings
+[energy]
+	#Total FE capacity of chamber (Default: 100000)
+	# Range: > 1000
+	chamberCapacity = 100000
+	#FE cost to activate chamber and enter simulation (Default: 2000)
+	# Range: > 100
+	activationCost = 2000
+	#Maximum FE transfer rate in and out per tick (Default: 500)
+	# Range: > 1
+	maxTransferRate = 500

@@ -1,0 +1,9 @@
+{
+  "dimension": "stasismod:simulation",
+  "priority": 10000,
+  "base_gravity": [0.0, -11.0, 0.0],
+  "universal_drag": 0.09,
+  "base_pressure": 1.0,
+  "magnetic_north": [0, 0, 0],
+  "ignore_chunks": false
+}

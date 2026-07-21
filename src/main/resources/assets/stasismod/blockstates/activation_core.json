@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "stasismod:block/activation_core",
+      "y": 0
+    },
+    "facing=south": {
+      "model": "stasismod:block/activation_core",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stasismod:block/activation_core",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "stasismod:block/activation_core",
+      "y": 90
+    },
+    "facing=up": {
+      "model": "stasismod:block/activation_core",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "stasismod:block/activation_core",
+      "x": 90
+    }
+  }
+}

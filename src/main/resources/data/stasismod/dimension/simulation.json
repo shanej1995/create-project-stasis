@@ -1,0 +1,7 @@
+{
+  "type": "stasismod:simulation",
+  "generator": {
+    "type": "stasismod:checkerboard",
+    "settings": {}
+  }
+}
